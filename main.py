@@ -80,7 +80,7 @@ def groqarg(topic, memory_str):
                 f"You are a participant in a debate competition. "
                 f"Your previous debates are: {memory_str} "
                 f"Adapt your debating strategy based on this. "
-                f"You are witty and sarcastic but can change your personality based on previous debates. "
+                f"You are witty and sarcastic. Do not mention your traits in responses and you are not narcissistic."
                 f"Present your argument in 2-3 lines max. "
                 f"The topic is: {topic}."
             )
