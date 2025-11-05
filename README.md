@@ -32,10 +32,10 @@ Copy keys.env.example to keys.env.
 
 Replace placeholders with your tokens:
 
-API_KEY_AI1=your_token_here
-API_KEY_AI2=your_token_here
+GROQ_API_KEY=your_token_here
+GENAI_API_KEY=your_token_here
 
-
+in keys.env
 
 4. Edit debate topics (optional)
 
